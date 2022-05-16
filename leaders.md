@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ram Prasath](mailto:ram.prasath@owasp.org)
+* [Latha Rajendran](mailto:latha.rajendran@owasp.org)
