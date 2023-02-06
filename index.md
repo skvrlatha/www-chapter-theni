@@ -27,7 +27,8 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-![image_6483441](https://user-images.githubusercontent.com/46134003/216892515-7da96e75-1dab-4c3b-8ca8-1f8c9904098e.JPG)
+![logo](https://user-images.githubusercontent.com/46134003/216893716-133cfe1f-854c-4e58-bb9a-dd485637b17f.JPG)
+
 
 
 ## Participation
